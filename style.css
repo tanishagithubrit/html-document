@@ -1,8 +1,17 @@
-*{ background-color:  pink;}
+/*{ background-color:  pink;}*/
 h1,h2,h3{
     color:blue;
     }
     p:hover, a:hover{
 
         background-color: yellow;
+    }
+    a:visited{
+        color: green;
+    }
+    a:link{
+         color:blue;
+    }
+    *{
+        background-color:rgba(10,23,13,0.2);
     }
